@@ -1,0 +1,121 @@
+@font-face {
+    font-family: 'Bebas Neue Regular';
+    src: url('../fonts/BebasNeueRegular.eot');
+    src: url('../fonts/BebasNeueRegular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/BebasNeueRegular.woff') format('woff'),
+    url('../fonts/BebasNeueRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Bebas Neue Book';
+    src: url('../fonts/BebasNeueBook.eot');
+    src: url('../fonts/BebasNeueBook.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/BebasNeueBook.woff') format('woff'),
+    url('../fonts/BebasNeueBook.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Bebas Neue Light';
+    src: url('../fonts/BebasNeueLight.eot');
+    src: url('../fonts/BebasNeueLight.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/BebasNeueLight.woff') format('woff'),
+    url('../fonts/BebasNeueLight.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Bebas Neue Bold';
+    src: url('../fonts/BebasNeueBold.eot');
+    src: url('../fonts/BebasNeueBold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/BebasNeueBold.woff') format('woff'),
+    url('../fonts/BebasNeueBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Bebas Neue Thin';
+    src: url('../fonts/BebasNeue-Thin.eot');
+    src: url('../fonts/BebasNeue-Thin.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/BebasNeue-Thin.woff') format('woff'),
+    url('../fonts/BebasNeue-Thin.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Fira Sans Condensed Regular';
+    src: url('../fonts/FiraSansCondensed-Regular.eot');
+    src: url('../fonts/FiraSansCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/FiraSansCondensed-Regular.woff') format('woff'),
+    url('../fonts/FiraSansCondensed-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Fira Sans Condensed Light';
+    src: url('../fonts/FiraSansCondensed-Light.eot');
+    src: url('../fonts/FiraSansCondensed-Light.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/FiraSansCondensed-Light.woff') format('woff'),
+    url('../fonts/FiraSansCondensed-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Fira Sans Condensed ExtraBold';
+    src: url('../fonts/FiraSansCondensed-ExtraBold.eot');
+    src: url('../fonts/FiraSansCondensed-ExtraBold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/FiraSansCondensed-ExtraBold.woff') format('woff'),
+    url('../fonts/FiraSansCondensed-ExtraBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.fs-160{
+    font-size: 160px;
+}
+.fs-90{
+    font-size: 90px;
+}
+.fs-84{
+    font-size: 84px;
+}
+.fs-72{
+    font-size: 72px;
+}
+.fs-54{
+    font-size: 54px;
+}
+.fs-36{
+    font-size: 36px;
+}
+.fs-32{
+    font-size: 32px;
+}
+.fs-30{
+    font-size: 30px;
+}
+.fs-24{
+    font-size: 24px;
+}
+.fs-21{
+    font-size: 21px;
+}
+.fs-20{
+    font-size: 20px;
+}
+.fs-18{
+    font-size: 18px;
+}
+.fs-16{
+    font-size: 16px;
+}
+.fs-15{
+    font-size: 15px;
+}
+.fs-14{
+    font-size: 14px;
+}
+.fs-12{
+    font-size: 12px;
+}
